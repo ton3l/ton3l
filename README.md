@@ -1,11 +1,15 @@
 ## Aspirante a Dev.
 ## Linguagens em destaque 👨🏽‍💻:
-C++; (Intermediário/Avançado)
-Python;(Intermediário)
-Html/Css/Js;(Intermediário)
+C++; (Intermediário/Avançado) 
+Python; (Intermediário) 
+Html/Css/Js; (Intermediário) 
 
 ## Linguagens à serem aprendidas💡💭:
 C#;
+
+## Tecnologias conhecidas 💻:
+Figma; 
+Git/Github;
 
 ## Trajetória Profissional 💼:
 Atualmente atuando como jovem aprendiz no setor de Desenvolvimento e Tecnologia da Brazil Paraiba Mine;
