@@ -1,9 +1,8 @@
 ## Linguagens e Frameworks 👨🏽‍💻:
   * C++; <br>
   * Python; <br>
-  * Html/Css/Js; <br> 
-  * PHP; <br> <br>
-  
+  * Html/Css/Js - TailwindCSS / BootStrap; <br> 
+  * PHP; <br>
   * NodeJS - Electron / ExpressJs; <br> 
 
 ## Tecnologias conhecidas 💻:
@@ -11,7 +10,7 @@
   * Conteinerização de aplicações - Docker; <br>
   * Simulação de requisições http/https - Postman / Insomnia; <br>
   * Gerenciamento de versões - Git/Github; <br>
-  * Bases de dados - Postgres / MariaDB / MySQL;
+  * Bases de dados - PostgreSQL / MariaDB / MySQL;
 
 ## Trajetória Profissional 💼:
   * Atualmente atuando como estagiário no setor de Desenvolvimento da Brazil Paraiba Mine;
@@ -21,7 +20,7 @@
   * 105 horas | Programação com acesso a Banco de Dados;<br>
   * 75 horas | Fundamentos de Lógica e Algoritmo; <br>
   * 60 horas | Autoria Web;<br>
-  * 105 horas | Arquitetura de redes de computadores e Tecnologia deimplementação de redes;<br>
+  * 105 horas | Arquitetura de redes de computadores e Tecnologia de implementação de redes;<br>
   * 30 horas | CSS folhas de estilo; <br>
 <!--
 **ton3l/ton3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
