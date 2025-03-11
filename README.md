@@ -1,25 +1,27 @@
-# **Aspirante a Dev.**
-## Linguagens em destaque 👨🏽‍💻:
-  * C++; (Intermediário/Avançado)   <br>
-  * Python; (Intermediário)   <br>
-  * Html/Css/Js; (Intermediário)   <br> 
-
-## Linguagens à serem aprendidas💡💭:
-  * C#;
+## Linguagens e Frameworks 👨🏽‍💻:
+  * C++; <br>
+  * Python; <br>
+  * Html/Css/Js; <br> 
+  * PHP; <br> <br>
+  
+  * NodeJS - Electron / ExpressJs; <br> 
 
 ## Tecnologias conhecidas 💻:
-  * Figma; <br>
-  * Git/Github;
+  * Design de projetos - Figma; <br>
+  * Conteinerização de aplicações - Docker; <br>
+  * Simulação de requisições http/https - Postman / Insomnia; <br>
+  * Gerenciamento de versões - Git/Github; <br>
+  * Bases de dados - Postgres / MariaDB / MySQL;
 
 ## Trajetória Profissional 💼:
-  * Atualmente atuando como jovem aprendiz no setor de Desenvolvimento e Tecnologia da Brazil Paraiba Mine;
+  * Atualmente atuando como estagiário no setor de Desenvolvimento da Brazil Paraiba Mine;
 
 ## Estudos 📚:
   * 120 horas | PEOO - Programação Estruturada e Orientada a Objetos; <br>
-  * 105 horas | Programação com acesso a Banco de Dados;(Em andamento) <br>
+  * 105 horas | Programação com acesso a Banco de Dados;<br>
   * 75 horas | Fundamentos de Lógica e Algoritmo; <br>
-  * 60 horas | Autoria Web; (Em andamento) <br>
-  * 105 horas | Arquitetura de redes de computadores e Tecnologia deimplementação de redes; (Em andamento) <br>
+  * 60 horas | Autoria Web;<br>
+  * 105 horas | Arquitetura de redes de computadores e Tecnologia deimplementação de redes;<br>
   * 30 horas | CSS folhas de estilo; <br>
 <!--
 **ton3l/ton3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
