@@ -1,16 +1,16 @@
 ## Linguagens e Frameworks 👨🏽‍💻:
   * C++; <br>
   * Python; <br>
-  * Html/Css/Js - TailwindCSS / BootStrap; <br> 
+  * Html/Css/Js - TailwindCSS | BootStrap; <br> 
   * PHP; <br>
-  * NodeJS - Electron / ExpressJs; <br> 
+  * NodeJS - Electron | ExpressJs; <br> 
 
 ## Tecnologias conhecidas 💻:
   * Design de projetos - Figma; <br>
   * Conteinerização de aplicações - Docker; <br>
-  * Simulação de requisições http/https - Postman / Insomnia; <br>
+  * Simulação de requisições http/https - Postman | Insomnia; <br>
   * Gerenciamento de versões - Git/Github; <br>
-  * Bases de dados - PostgreSQL / MariaDB / MySQL;
+  * Bases de dados - PostgreSQL | MariaDB | MySQL;
 
 ## Trajetória Profissional 💼:
   * Atualmente atuando como estagiário no setor de Desenvolvimento da Brazil Paraiba Mine;
