@@ -2,7 +2,7 @@
   * C++; <br>
   * Python; <br>
   * Html/Css/Js - TailwindCSS | BootStrap; <br> 
-  * PHP; <br>
+  * PHP - XAMPP; <br>
   * NodeJS - Electron | ExpressJs; <br> 
 
 ## Tecnologias conhecidas 💻:
