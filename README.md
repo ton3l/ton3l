@@ -1,4 +1,4 @@
-## Linguagens e frameworks🧑🏾‍💻:
+## Linguagens e frameworks👾:
 <img src="./ÍconesReadme/programador 1.png" width="425" height="550" align="right" border-radius="10"/>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
