@@ -1,6 +1,6 @@
 # Prazer, meu nome é Elton 😁
 
-__Sou um desenvolvedor FullStack com conhecimento principal em Typescript/Javascript no densenvolvimento de apps desktop e APIs Restful. Gosto de explorar novas tecnologias e desenvolver novos projetos, sempre procurando manter uma arquitetura organizada e boas práticas de código, além de ter grande foco em entender as tecnologias aplicadas mais a fundo, não somente praticá-las.__
+__Sou um desenvolvedor FullStack com conhecimento principal em densenvolvimento Backend no ecossistema NodeJs (Typescript/Javascript). Durante minha carreira trabalhei no desenvolvimento de APIs RESTful escaláveis e com arquitetura limpa. Gosto de explorar novas tecnologias e desenvolver novos projetos, sempre procurando manter uma arquitetura organizada e boas práticas de código, além de ter grande foco em entender as tecnologias aplicadas mais a fundo, não somente praticá-las.__
 
 ## Repertório de tecnologias  📖📚
 
